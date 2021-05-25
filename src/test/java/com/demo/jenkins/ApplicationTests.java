@@ -18,7 +18,7 @@ class ApplicationTests {
 
 	@Test
 	void contextLoads() {
-		log.info("Test Case executing....");
+		log.info("Test Case executing now....");
 		assertEquals(true, true);
 	}
 
