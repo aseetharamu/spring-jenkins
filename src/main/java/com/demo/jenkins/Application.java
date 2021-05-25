@@ -16,6 +16,7 @@ public class Application {
 	@PostConstruct
 	public void init() {
 		log.info("Application Started...");
+		log.info("Testing pipeline in jenkins...");
 	
 	}
 	public static void main(String[] args) {
